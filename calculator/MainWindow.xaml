@@ -6,6 +6,8 @@
         xmlns:local="clr-namespace:WPF003"
         mc:Ignorable="d"
         Title="MainWindow" Height="525" Width="350">
+    
+    
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
