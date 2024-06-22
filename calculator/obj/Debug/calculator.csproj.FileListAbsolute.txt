@@ -1,0 +1,15 @@
+C:\Users\takuh\OneDrive\デスクトップ\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\takuh\OneDrive\デスクトップ\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\takuh\OneDrive\デスクトップ\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\takuh\OneDrive\デスクトップ\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\takuh\OneDrive\デスクトップ\calculator\calculator\obj\Debug\MainWindow.g.cs
+C:\Users\takuh\OneDrive\デスクトップ\calculator\calculator\obj\Debug\App.g.cs
+C:\Users\takuh\OneDrive\デスクトップ\calculator\calculator\obj\Debug\calculator_MarkupCompile.cache
+C:\Users\takuh\OneDrive\デスクトップ\calculator\calculator\obj\Debug\calculator_MarkupCompile.lref
+C:\Users\takuh\OneDrive\デスクトップ\calculator\calculator\obj\Debug\MainWindow.baml
+C:\Users\takuh\OneDrive\デスクトップ\calculator\calculator\obj\Debug\calculator.g.resources
+C:\Users\takuh\OneDrive\デスクトップ\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\takuh\OneDrive\デスクトップ\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\takuh\OneDrive\デスクトップ\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\takuh\OneDrive\デスクトップ\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\takuh\OneDrive\デスクトップ\calculator\calculator\obj\Debug\calculator.pdb
